@@ -3,6 +3,7 @@
     "name": "Revealer",
     "cost": 0,
     "uniques": [
+		"Reveals the entire map",
 		"Limited to [1] per Civilization",
 		"Can only be built <in [Capital] cities>",
 		"Automatically built in all cities where it is buildable"
